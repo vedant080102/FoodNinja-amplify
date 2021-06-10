@@ -1,3 +1,3 @@
-# FoodNinja-amplify
+# FoodNinja-AWS Amplify
 
 A SAMPLE PWA APPLICATION HOSTED USING AWS AMPLIFY
